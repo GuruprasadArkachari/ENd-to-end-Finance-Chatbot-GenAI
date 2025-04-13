@@ -1,1 +1,1 @@
-# ENd-to-end-Finance-Chatbot-GenAI
+# End-to-end-Finance-Chatbot-GenAI
